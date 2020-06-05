@@ -5,14 +5,14 @@
         }
 
         .panel {
-            width: 75%;
-            margin-top: 30px;
+            /* margin-top: 30px; */
             border: 2px solid #fff;
             padding: 30px;
+            box-shadow: 0px 2px 19px 0px rgba(255,255,255,1);
         }
 
 
-     @media only screen and (max-width: 768px) {
+     /* @media only screen and (max-width: 768px) {
    .panel {
             width: 80%;
             margin-top: 200px;
@@ -29,4 +29,4 @@
             border: 2px solid #fff;
             padding: 20px;
         }
-}   
+}    */
